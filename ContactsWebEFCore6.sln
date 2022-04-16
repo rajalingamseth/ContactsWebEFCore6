@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactsWebEFCore6", "ContactsWebEFCore6\ContactsWebEFCore6.csproj", "{62C63CBF-DF3B-4D8C-AEBE-47276B3EABF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D1FC8353-7457-4A94-980A-22F9FD30323E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62C63CBF-DF3B-4D8C-AEBE-47276B3EABF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C63CBF-DF3B-4D8C-AEBE-47276B3EABF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C63CBF-DF3B-4D8C-AEBE-47276B3EABF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C63CBF-DF3B-4D8C-AEBE-47276B3EABF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD5553C1-06FA-40B4-91BC-4A1304BED6A3}
+	EndGlobalSection
+EndGlobal
